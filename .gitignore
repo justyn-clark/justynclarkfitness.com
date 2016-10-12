@@ -1,0 +1,13 @@
+/bower_components/*
+/.sass-cache/*
+*.DS_Store
+/stylesheets/*
+/img/
+/.htaccess
+/Gemfile
+/Gemfile.lock
+/humans.txt
+/robots.txt
+/config.rb
+/.idea
+/.bowerrc
